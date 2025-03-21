@@ -1,5 +1,8 @@
 ## Welcome on my profile 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
+
 <!--
 **daniel149afonso/daniel149afonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
