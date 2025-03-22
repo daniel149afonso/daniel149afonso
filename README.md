@@ -4,7 +4,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact)
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Switzerland</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
