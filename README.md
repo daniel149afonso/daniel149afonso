@@ -1,4 +1,4 @@
-## Hi, I'm Daniel, welcome on my profile 👋
+## Hi, I'm Daniel a 42 school student, welcome on my profile 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
