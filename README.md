@@ -31,8 +31,8 @@
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
- <a href="https://github.com/IsaiahRobinsonGit/42-Projects/tree/main" style="text-decoration: none; width: 330px; height: 186px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
-        <img src="https://github.com/IsaiahRobinsonGit/images/blob/main/42%20Projects.png" width="330" height="186" style="border-radius: 10px;" />
+ <a href="#" style="text-decoration: none; width: 330px; height: 186px; background-color: #f0f0f0; display: flex; justify-content: center; align-items: center; border-radius: 10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); margin-right: 20px;">
+        <img src="#" width="330" height="186" style="border-radius: 10px;" />
     </a>
 
 ### Diplomes...
