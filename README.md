@@ -30,7 +30,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<br><br><br><br>
+<br><br>
 <h3 align="left"> 🎓 Diplomes:</h3>
 <div align="left">
 <img src="certificat_dev_web.jpg" alt="diplome" width="350"/>
