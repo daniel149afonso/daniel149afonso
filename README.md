@@ -32,7 +32,10 @@
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
 ### 🎓Diplomes...
-<img src= "[file:///C:/Users/danie/OneDrive/Bureau/certificat_dev_web.jpg](https://github.com/daniel149afonso/daniel149afonso/blob/main/certificat_dev_web.jpg)">
+## 🎓 Diplômes
+
+![Diplôme 42](./daniel149afonso/certificat_dev_web.jpg)
+
 </p>
 
 
