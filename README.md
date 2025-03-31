@@ -34,8 +34,9 @@
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 </p>
-<br><br>
-<h3 align="left"> 🎓 Diplomes:</h3>
+
+<!---DIPLOMES------------------------------------------>
+<h2 align="left"> 🎓 Diplomes:</h2>
 <div align="left">
 <img src="certificat_dev_web.jpg" alt="diplome" width="300"/>
 <img src="certificat_js.jpg" alt="diplome" width="300"/>
