@@ -3,6 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42)
+[![C#](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg)](https://www.w3schools.com/cs/)
 
 <h3 align="center">A passionate developer from Switzerland</h3>
 
