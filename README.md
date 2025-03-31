@@ -34,7 +34,7 @@
 ### 🎓Diplomes...
 ## 🎓 Diplômes
 
-![Diplôme 42](./daniel149afonso/certificat_dev_web.jpg)
+![Diplôme 42](/certificat_dev_web.jpg)
 
 </p>
 
