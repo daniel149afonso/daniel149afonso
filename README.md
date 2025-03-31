@@ -33,9 +33,9 @@
 <br><br>
 <h3 align="left"> 🎓 Diplomes:</h3>
 <div align="left">
-<img src="certificat_dev_web.jpg" alt="diplome" width="350"/>
-<img src="certificat_js.jpg" alt="diplome" width="350"/>
-<img src="certificat_php_sql.jpg" alt="diplome" width="350"/>
+<img src="certificat_dev_web.jpg" alt="diplome" width="300"/>
+<img src="certificat_js.jpg" alt="diplome" width="300"/>
+<img src="certificat_php_sql.jpg" alt="diplome" width="300"/>
 </div>
 </p>
 
