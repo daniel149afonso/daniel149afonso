@@ -1,6 +1,6 @@
 ## Hi, I'm Daniel a student at 42 Lausanne👋
 
-## Stats
+## 📊Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42)
