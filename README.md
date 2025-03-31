@@ -31,8 +31,8 @@
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
 
-## 🎓 Diplômes
-<div align="center">
+<h3 align="left"> 🎓 Diplômes</h3>
+<div align="left">
 <img src="certificat_dev_web.jpg" alt="diplome" width="350"/>
 <img src="certificat_js.jpg" alt="diplome" width="350"/>
 <img src="certificat_php_sql.jpg" alt="diplome" width="350"/>
