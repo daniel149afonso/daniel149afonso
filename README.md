@@ -1,4 +1,4 @@
-## Hi, I'm Daniel a student at 42 Lausanne, welcome on my profile 👋
+## Hi, I'm Daniel a student at 42 Lausanne👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact)
