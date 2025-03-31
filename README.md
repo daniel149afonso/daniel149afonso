@@ -7,8 +7,7 @@
 
 <h3 align="center">A passionate developer from Switzerland</h3>
 
-<h3 align="left">🛠️Languages and Tools:</h3>
-# 🛠️Languages and Tools:
+<h2 align="left">🛠️Languages and Tools:</h2>
 <p align="left">
 <!---HTML------------------->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
