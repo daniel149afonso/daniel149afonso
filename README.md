@@ -1,5 +1,6 @@
 ## Hi, I'm Daniel a student at 42 Lausanne👋
 
+## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42)
@@ -32,6 +33,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+</p>
 <br><br>
 <h3 align="left"> 🎓 Diplomes:</h3>
 <div align="left">
@@ -39,7 +41,7 @@
 <img src="certificat_js.jpg" alt="diplome" width="300"/>
 <img src="certificat_php_sql.jpg" alt="diplome" width="300"/>
 </div>
-</p>
+
 
 
 <!--
