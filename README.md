@@ -1,5 +1,5 @@
 ## Hi, I'm Daniel a student at 42 Lausanne👋
-## 📈Languages:
+## 🌍Languages:
 French 🇫🇷, English 🇬🇧
 
 ## 📈Stats:
