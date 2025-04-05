@@ -42,7 +42,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 <br>
 <!---DESCRIPTION--------------------->
 <ul>
-<li>Languages: HTML5, CSS3, JavaScript, PHP, C, C#,</li>
+<li>Languages:<strong> HTML5, CSS3, JavaScript, PHP, C, C#</strong> </li>
 <li>Frameworks: Bootstrap5, React in progress..</li> 
 <li>Tools: Git, Unity</li>
 <li>Databases: SQL</li> 
