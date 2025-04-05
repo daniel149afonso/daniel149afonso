@@ -19,11 +19,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/> </a> 
 <!---JS--------------------->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
-
- <!---BOOTSTRAP--------------------->
+<!---BOOTSTRAP--------------------->
 <a href=" https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="javascript" width="80" height="80"/> </a>
-          
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="80" height="80"/> </a>
 <!---PHP--------------------->
 <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a>
 <!---MYSQL--------------------->
