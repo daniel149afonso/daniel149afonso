@@ -21,9 +21,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>
 
  <!---BOOTSTRAP--------------------->
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" /> </a>
-            
+<a href=" https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="javascript" width="80" height="80"/> </a>
           
 <!---PHP--------------------->
 <a href="https://www.php.net" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="80" height="80"/> </a>
