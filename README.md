@@ -39,12 +39,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="80" height="80"/> </a>
 </p>
-- Languages: **Java**, **C#**, **HTML/CSS**, **JavaScript**, **PHP**, **C**
-- Databases: **SQL**
+<ul>
+ <li>Languages: **Java**, **C#**, **HTML/CSS**, **JavaScript**, **PHP**, **C**</li> 
+<li>Databases: **SQL**</li> 
 - Tools: **Unity3D**, **Power BI**, **Office 365**, **Git**
 - Cloud & Infra: **Azure**
 - Design: **Adobe After Effects**, **Premiere Pro**
 - Environment: **PCSoft**, **Visual Studio**, **FL Studio**
+</ul>
+
           
 <!---DIPLOMES------------------------------------------>
 <h2 align="left"> 🎓 Certificates:</h2>
