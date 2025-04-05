@@ -10,7 +10,7 @@
 <h3 align="center">A passionate developer from Switzerland</h3>
 
 <h2 align="left">🛠️Languages and Tools:</h2>
-<p align="left">
+<p align="center">
 <!---HTML------------------->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
@@ -39,6 +39,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstr
 <!---UNITY--------------------->
 <a href="https://unity.com/" target="_blank" rel="noreferrer" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="80" height="80"/> </a>
 </p>
+- Languages: **Java**, **C#**, **HTML/CSS**, **JavaScript**, **PHP**, **C**
+- Databases: **SQL**
+- Tools: **Unity3D**, **Power BI**, **Office 365**, **Git**
+- Cloud & Infra: **Azure**
+- Design: **Adobe After Effects**, **Premiere Pro**
+- Environment: **PCSoft**, **Visual Studio**, **FL Studio**
           
 <!---DIPLOMES------------------------------------------>
 <h2 align="left"> 🎓 Certificates:</h2>
