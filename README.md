@@ -60,6 +60,10 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
 </a>
+<!-- Unity -->
+<a href="https://unity.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" alt="linux" width="80" height="80"/>
+</a>          
 </p>
 <br>
 <!---DESCRIPTION--------------------->
