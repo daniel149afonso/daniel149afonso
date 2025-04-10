@@ -13,7 +13,7 @@
 <p align="center">
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
+  <img src="https://cdn.simpleicons.org/html5/ff5722" width="50" alt="HTML5"/>
 </a>
 <!-- CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
