@@ -10,40 +10,8 @@
 <h3 align="center">A passionate developer from Switzerland</h3>
 
 <h2 align="left">🛠️Languages and Tools:</h2>
-<p align="center">
-<!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/>
-<!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80"/>
-<!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/>
-<!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="80" height="80"/>
-<!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="80" height="80"/>
-<!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
-<!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="80" height="80"/>
-<!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="80" height="80"/>
-<!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="80" height="80"/>
-<!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
-<!-- Unity -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="80" height="80"/>
- <!-- VS Code -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
- <!-- Visual Studio -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="80" height="80"/>
- <!-- Wordpress -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="80" height="80"/>
-  <!-- Vim -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="80" height="80"/>
-  <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>        
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,vim,bash" width="100%" />
+<p align="center">       
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,vim,bash&perline=6" width="100%" />
 
 </p>
 <br>
