@@ -1,7 +1,7 @@
 ## Hi, I'm Daniel a student at 42 Lausanne👋
 ## 🌍Languages:
  English 🇬🇧, French 🇫🇷
-
+ 
 ## 📈Stats:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=makefile,shaderlab,hlsl,shell,dockerfile)
