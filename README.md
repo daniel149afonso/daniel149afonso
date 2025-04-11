@@ -11,7 +11,8 @@
 
 <h2 align="left">🛠️Languages and Tools:</h2>
 <p align="center">       
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,vim,bash&perline=6" width="100%" />
+ <!--ICONS-->
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,vim,bash&perline=8" width="100%" />
 
 </p>
 <br>
@@ -20,7 +21,7 @@
    <li>Languages: HTML5, CSS3, JavaScript, PHP, C, C#</li>
    <li>Frameworks: Bootstrap5, React in progress...</li> 
    <li>Tools: Git, Unity, WordPress, Vim, Bash</li>
-   <li>Databases: SQL</li> 
+   <li>Databases: MySql</li> 
    <li>Environment: Visual Studio Code, Visual Studio</li> 
 </ul>
 
