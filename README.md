@@ -42,8 +42,9 @@
   <!-- Vim -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="80" height="80"/>
   <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>        
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,vim,bash" width="100%" />
+
 </p>
 <br>
 <!---DESCRIPTION--------------------->
