@@ -21,7 +21,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="80" height="80"/>
 <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="80" height="80"/>
-
 <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/>
 <!-- C -->
@@ -33,16 +32,22 @@
 <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="80" height="80"/>
 <!-- Unity -->
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unity.svg" alt="linux" width="80" height="80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="unity" width="80" height="80"/>
+ <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="80" height="80"/>
+ <!-- Visual Studio -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="80" height="80"/>
+ <!-- Wordpress -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="80" height="80"/>
 </p>
 <br>
 <!---DESCRIPTION--------------------->
 <ul>
-<li>Languages: HTML5, CSS3, JavaScript, PHP, C, C#</li>
-<li>Frameworks: Bootstrap5, React in progress...</li> 
-<li>Tools: Git, Unity</li>
-<li>Databases: SQL</li> 
-<li>Environment: Visual Studio Code, Visual Studio</li> 
+   <li>Languages: HTML5, CSS3, JavaScript, PHP, C, C#</li>
+   <li>Frameworks: Bootstrap5, React in progress...</li> 
+   <li>Tools: Git, Unity</li>
+   <li>Databases: SQL</li> 
+   <li>Environment: Visual Studio Code, Visual Studio</li> 
 </ul>
 
           
