@@ -45,7 +45,7 @@
 <ul>
    <li>Languages: HTML5, CSS3, JavaScript, PHP, C, C#</li>
    <li>Frameworks: Bootstrap5, React in progress...</li> 
-   <li>Tools: Git, Unity</li>
+   <li>Tools: Git, Unity, WordPress</li>
    <li>Databases: SQL</li> 
    <li>Environment: Visual Studio Code, Visual Studio</li> 
 </ul>
