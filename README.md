@@ -39,6 +39,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="80" height="80"/>
  <!-- Wordpress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="80" height="80"/>
+  <!-- Vim -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="80" height="80"/>
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="80" height="80"/>
+          
 </p>
 <br>
 <!---DESCRIPTION--------------------->
