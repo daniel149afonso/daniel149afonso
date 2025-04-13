@@ -1,5 +1,5 @@
 ## Hi, I'm Daniel a student at 42 Lausanne👋
-### 🌱 I’m currently learning SASS, React and working on Minishell
+
 ## 🌍Languages:
  English 🇬🇧, French 🇫🇷
 
