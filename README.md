@@ -13,7 +13,7 @@
 <h2 align="left">🛠️Languages and Tools:</h2>
 <p align="center">       
  <!--ICONS-->
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,vim,bash&perline=8" width="100%" />
+<img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,bash&perline=8" width="100%" />
 
 </p>
 <br>
