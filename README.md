@@ -14,7 +14,7 @@
 <p align="center">       
  <!--ICONS-->
 <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,php,mysql,c,cs,git,linux,unity,vscode,visualstudio,wordpress,bash&perline=8" width="100%" />
-
+<!--retrait de vim-->
 </p>
 <br>
 <!---DESCRIPTION--------------------->
