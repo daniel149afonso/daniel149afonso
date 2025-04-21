@@ -29,10 +29,10 @@
           
 <!---DIPLOMES------------------------------------------>
 <h2 align="left"> 🎓 Certificates:</h2>
-<div align="left">
-<img src="certificat_dev_web.jpg" alt="diplome" width="300"/>
-<img src="certificat_js.jpg" alt="diplome" width="300"/>
-<img src="certificat_php_sql.jpg" alt="diplome" width="300"/>
+<div align="center">
+<img src="certificat_dev_web.jpg" alt="diplome" width="270"/>
+<img src="certificat_js.jpg" alt="diplome" width="270"/>
+<img src="certificat_php_sql.jpg" alt="diplome" width="270"/>
 </div>
 
 ## 📈 GitHub Activity
