@@ -5,7 +5,7 @@
 
 ## 📈Stats:
 
-<div align = "center">
+<div align = "left">
  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" width="48%"/>
 <!-- Top Langs -->
