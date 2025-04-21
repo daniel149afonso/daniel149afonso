@@ -4,12 +4,19 @@
  English 🇬🇧, French 🇫🇷
 
 ## 📈Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=makefile,shaderlab,hlsl,shell,dockerfile)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42)
 
+<div align = "center">
+ <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" width="48%"/>
+<!-- Top Langs -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=makefile,shaderlab,hlsl,shell,dockerfile" width="36.5%"/>
+<!-- Visitor Badge -->
+   
+</div>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42" width="150"/>
 <h3 align="center">A passionate developer from Switzerland</h3>
 
+<!--TOOLS------------------------->
 <h2 align="left">🛠️Languages and Tools:</h2>
 <p align="center">       
  <!--ICONS-->
