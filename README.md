@@ -5,14 +5,13 @@
 
 ## 📈Stats:
 
-<div align = "center">
+<div align = "left">
  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" width="402px"/>
 <!-- Top Langs -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=makefile,shaderlab,hlsl,shell,dockerfile" width="305px"/>
 </div>
 <!-- Visitor Badge -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=daniel149afonso.elouan42" width="120"/>
 
 <!--PASSIONATE DEVELOPER---->
 <h3 align="center">A passionate developer from Switzerland</h3>
