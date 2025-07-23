@@ -9,7 +9,7 @@
  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" width="402px"/>
 <!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=makefile,shaderlab,hlsl,shell,dockerfile" width="305px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=html,css,makefile,shaderlab,hlsl,shell,dockerfile" width="305px"/>
 </div>
 <!-- Visitor Badge -->
 
