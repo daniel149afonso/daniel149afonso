@@ -23,7 +23,7 @@ Basketball 🏀 10 years of experience in 3rd swiss division | Chess ♟️
 <h2 align="left">🛠️Languages and Tools:</h2>
 <p align="center">       
  <!--ICONS-->
-<img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,php,mysql,c,cpp,cs,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
+<img src="https://skillicons.dev/icons?i=js,c,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
 <!--retrait de vim-->
 </p>
 <br>
