@@ -2,8 +2,10 @@
 ### 🌱 I’m currently learning React and C++
 ## 🌍Languages:
  English 🇬🇧, French 🇫🇷
-## Hobbies
-Basketball 🏀 10 years of experience | Chess ♟️
+ 
+## Hobbies:
+Basketball 🏀 10 years of experience in 3rd swiss division | Chess ♟️
+
 ## 📈Stats:
 
 <div align = "left">
