@@ -1,66 +1,55 @@
-## Hi, I'm Daniel a student at 42 Lausanne, Switzerland👋
-### 🌱 I’m currently learning React and C++
-## 🌍Languages:
- English 🇬🇧, French 🇫🇷
- 
-## Hobbies:
-Basketball 🏀 10 years of experience in 3rd swiss division | Chess ♟️
+# 👋 Hi, I'm Daniel  
+🎓 Student at 42 Lausanne, Switzerland  
+🌱 Currently learning **React** and **C++**  
+💡 Passionate about **Basketball** 🏀 and **Chess** ♟️  
 
-## 📈Stats:
+---
 
-<div align = "left">
- <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" width="402px"/>
-<!-- Top Langs -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=html,css,makefile,shaderlab,hlsl,shell,dockerfile" width="305px"/>
-</div>
-<!-- Visitor Badge -->
-
-<!--PASSIONATE DEVELOPER---->
-<h3 align="center">A passionate developer from Switzerland</h3>
-
-<!--TOOLS------------------------->
-<h2 align="left">🛠️Languages and Tools:</h2>
-<p align="center">       
- <!--ICONS-->
-<img src="https://skillicons.dev/icons?i=js,c,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
-<!--retrait de vim-->
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=html,css,makefile,shaderlab,hlsl,shell,dockerfile" height="160"/>
 </p>
-<br>
-<!---DESCRIPTION--------------------->
-<ul>
-   <li>Languages: HTML5, CSS3, JavaScript, PHP, C, C++, C#</li>
-   <li>Frameworks: Bootstrap5, React in progress...</li> 
-   <li>Tools: Git, Unity, WordPress, Bash</li>
-   <li>Databases: MySql</li> 
-   <li>Environment: Visual Studio Code, Visual Studio</li> 
-</ul>
 
-          
-<!---DIPLOMES------------------------------------------>
-<h2 align="left"> 🎓 Certificates:</h2>
-<div align="center">
-<img src="certificat_dev_web.jpg" alt="diplome" width="270"/>
-<img src="certificat_js.jpg" alt="diplome" width="270"/>
-<img src="certificat_php_sql.jpg" alt="diplome" width="270"/>
-</div>
+---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,c,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
+</p>
 
-## 📈 GitHub Activity
+## 🛠️ Languages & Tools
 
+### 💻 Programming Languages
+- **HTML5, CSS3, JavaScript, PHP, C, C++, C#**
+
+### ⚡ Frameworks & Libraries
+- **Bootstrap5, React (in progress...)**
+
+### 🔧 Tools & Environments
+- **Git, Linux, Unity, Visual Studio Code, Visual Studio, WordPress**
+
+---
+
+## 🎓 Certificates
+<p align="center">
+  <img src="certificat_dev_web.jpg" alt="Web Development" width="270"/>
+  <img src="certificat_js.jpg" alt="JavaScript" width="270"/>
+  <img src="certificat_php_sql.jpg" alt="PHP & SQL" width="270"/>
+</p>
+
+---
+
+## 📊 GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=daniel149afonso&theme=react-dark&area=true&hide_border=true)
 
+---
 
-<!--
-**daniel149afonso/daniel149afonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Hobbies
+- 🏀 Basketball: 10 years of experience (3rd Swiss division)  
+- ♟️ Chess enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ton-profil)  
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/daniel149afonso)
+
