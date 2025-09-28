@@ -12,20 +12,17 @@
 </p>
 
 ---
+## 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,c,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
 </p>
 
-## 🛠️ Languages & Tools
 
-### 💻 Programming Languages
-#### - **HTML5, CSS3, JavaScript, PHP, C, C++, C#**
-
-### ⚡ Frameworks & Libraries
-#### - **Bootstrap5, React (in progress...)**
-
-### 🔧 Tools & Environments
-#### - **Git, Linux, Unity, Visual Studio Code, Visual Studio, WordPress**
+| 💻 Programming Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
+|-------------------------------------|---------------------------|---------------------------------------|
+|  JavaScript,  C, C++, C#, PHP, MYSQL        | Bootstrap5                | Git, Linux, Unity                     |
+|  HTML5, CSS3                        | React (in progress...)    | Visual Studio Code, Visual Studio, WordPress |
 
 ---
 
