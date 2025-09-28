@@ -19,13 +19,13 @@
 ## 🛠️ Languages & Tools
 
 ### 💻 Programming Languages
-- **HTML5, CSS3, JavaScript, PHP, C, C++, C#**
+#### - **HTML5, CSS3, JavaScript, PHP, C, C++, C#**
 
 ### ⚡ Frameworks & Libraries
-- **Bootstrap5, React (in progress...)**
+#### - **Bootstrap5, React (in progress...)**
 
 ### 🔧 Tools & Environments
-- **Git, Linux, Unity, Visual Studio Code, Visual Studio, WordPress**
+#### - **Git, Linux, Unity, Visual Studio Code, Visual Studio, WordPress**
 
 ---
 
