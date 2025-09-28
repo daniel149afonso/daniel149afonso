@@ -47,6 +47,8 @@
 ---
 
 ## 📫 Connect with me
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ton-profil)  
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ton-profil)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/daniel149afonso)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/TON_ID_DISCORD)
+
 
