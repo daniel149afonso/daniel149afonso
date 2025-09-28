@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Daniel  
-🎓 Student at 42 Lausanne, Switzerland  
-🌱 Currently learning **React** and **C++**  
-💡 Passionate about **Basketball** 🏀 and **Chess** ♟️  
+## 👋 Hi, I'm Daniel  
+### 🎓 Student at 42 Lausanne, Switzerland  
+### 🌱 Currently learning **React** and **C++**  
+### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
 
 ---
 
