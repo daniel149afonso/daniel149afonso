@@ -21,7 +21,7 @@
 
 | 💻 Programming Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
 |-------------------------------------|---------------------------|---------------------------------------|
-|  JavaScript,  C, C++, C#, PHP, MYSQL        | Bootstrap5                | Git, Linux, Unity                     |
+|  JavaScript,  C, C++, C#, PHP, MYSQL        | Bootstrap5, Sass               | Git, Linux, Unity                     |
 |  HTML5, CSS3                        | React (in progress...)    | Visual Studio Code, Visual Studio, WordPress |
 
 ---
