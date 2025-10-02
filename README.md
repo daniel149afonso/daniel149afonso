@@ -3,7 +3,8 @@
 ### 🌱 Currently learning **React** and **C++**  
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
 
----
+## 🌍 Languages 
+English 🇬🇧, French 🇫🇷
 
 ## 📈 GitHub Stats
 <p align="left">
