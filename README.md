@@ -9,7 +9,7 @@ English 🇬🇧, French 🇫🇷
 ## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=daniel149afonso&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=html,css,makefile,shaderlab,hlsl,shell,dockerfile" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel149afonso&layout=compact&theme=dark&hide=perl,roff,html,css,makefile,shaderlab,hlsl,shell,dockerfile" height="160"/>
 </p>
 
 ---
