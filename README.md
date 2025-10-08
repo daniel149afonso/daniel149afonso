@@ -42,7 +42,7 @@ English 🇬🇧, French 🇫🇷
 ---
 
 ## 🎯 Hobbies
-- 🏀 Basketball: 10 years of experience (3rd Swiss division)  
+- 🏀 Basketball: 10 years of experience (3rd Swiss division): https://www.youtube.com/watch?v=XnTg6HKw4zw
 - ♟️ Chess enthusiast  
 
 ---
