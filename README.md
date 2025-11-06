@@ -16,7 +16,7 @@ English 🇬🇧, French 🇫🇷
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,c,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
+  <img src="https://skillicons.dev/icons?i=c,js,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
 </p>
 
 
