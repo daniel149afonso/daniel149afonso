@@ -2,7 +2,7 @@
 ### 🎓 Student at 42 Lausanne, Switzerland  
 ### 🌱 Currently learning **React** and **C++**  
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
- 
+  
 ## 🌍 Languages 
 English 🇬🇧, French 🇫🇷
 
