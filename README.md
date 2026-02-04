@@ -49,8 +49,8 @@ English 🇬🇧, French 🇫🇷
 ---
 
 ## 📫 Connect with me
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ton-profil)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/daniel-afonso-a35370384/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/daniel149afonso)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/TON_ID_DISCORD)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/168778342353338368)
 
 
