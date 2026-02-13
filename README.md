@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daniel  
 ### 🎓 Student at 42 Lausanne, Switzerland  
-### 🌱 Currently learning **React** and **C++**  
+### 🌱 Currently learning **Nest.JS** and **PostgreSQL**
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
   
 ## 🌍 Languages 
@@ -13,17 +13,26 @@ English 🇬🇧, French 🇫🇷
 </p>
 
 ---
-## 🛠️ Languages & Tools
 
+<h2 align="center">💻 Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,js,cpp,cs,html,css,php,mysql,sass,bootstrap,git,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,php" />
 </p>
 
+<h2 align="center">🌐 Frontend</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,sass,bootstrap" />
+</p>
 
-| 💻 Programming Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
-|-------------------------------------|---------------------------|---------------------------------------|
-|   C, C++, C#, PHP, MYSQL        | Bootstrap5, Sass               | Git, Linux, Unity                     |
-|  HTML5, CSS3, JavaScript       | React (in progress...)    | Visual Studio Code, Visual Studio, WordPress |
+<h2 align="center">🗄 Backend & Database</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,wordpress" />
+</p>
+
+<h2 align="center">🛠 Tools & Environment</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,unity,vscode,visualstudio" />
+</p>
 
 ---
 
