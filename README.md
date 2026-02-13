@@ -13,12 +13,12 @@ English 🇬🇧, French 🇫🇷
 </p>
 
 ---
-<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,php,mysql,react,sass,bootstrap,linux,unity,vscode,visualstudio,wordpress&perline=8" width="100%" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,php,mysql,sass,bootstrap,linux,unity,wordpress&perline=7" width="100%" /> </p>
 
-| 💻 Programming Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
+| 💻 Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
 |-------------------------------------|---------------------------|---------------------------------------|
-|   C, C++, C#, PHP, MYSQL        | Bootstrap5, Sass               | Git, Linux, Unity                     |
-|  HTML5, CSS3, JavaScript       | React    | Visual Studio Code, Visual Studio, WordPress |
+|   C, C++, C#, Php, MySQL        | Bootstrap5, Sass               | Linux, Unity                     |
+|  Html5, Css3, JavaScript       | React    | WordPress |
 ---
 
 ## 🎓 Certificates
