@@ -13,6 +13,7 @@ English 🇬🇧, French 🇫🇷
 </p>
 
 ---
+## 🛠️ Skills
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,php,mysql,sass,bootstrap,linux,unity,wordpress&perline=7" width="70%" /> </p>
 
 | 💻 Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
