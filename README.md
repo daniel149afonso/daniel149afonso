@@ -19,7 +19,7 @@ English 🇬🇧, French 🇫🇷
 | 💻 Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
 |-------------------------------------|---------------------------|---------------------------------------|
 |   C, C++, C#, Php, MySQL        | Bootstrap5, Sass               | Linux, Docker, Unity                     |
-|  Html5, Css3, JavaScript, Typescript       | React, Nest.JS, Prisma     | WordPress |
+|  JavaScript, TypeScript, Html5, Css3,        | React, Nest.JS, Prisma     | WordPress |
 ---
 
 ## 🎓 Certificates
