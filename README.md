@@ -14,12 +14,12 @@ English 🇬🇧, French 🇫🇷
 
 ---
 ## 🛠️ Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,react,html,css,php,mysql,sass,bootstrap,linux,unity,wordpress&perline=7" width="70%" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,react,nest,prisma,html,css,php,mysql,sass,bootstrap,docker,linux,unity,wordpress&perline=9" width="70%" /> </p>
 
 | 💻 Languages            | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
 |-------------------------------------|---------------------------|---------------------------------------|
-|   C, C++, C#, Php, MySQL        | Bootstrap5, Sass               | Linux, Unity                     |
-|  Html5, Css3, JavaScript       | React    | WordPress |
+|   C, C++, C#, Php, MySQL        | Bootstrap5, Sass               | Linux, Docker, Unity                     |
+|  Html5, Css3, JavaScript, Typescript       | React, Nest.JS, Prisma     | WordPress |
 ---
 
 ## 🎓 Certificates
