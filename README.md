@@ -14,7 +14,7 @@ English 🇬🇧, French 🇫🇷
 
 ---
 ## 🛠️ Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,react,nest,html,css,php,mysql,tailwindcss,sass,prisma,docker,linux,unity,wordpress&perline=9" width="70%" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,react,nodejs,html,css,php,mysql,tailwindcss,sass,prisma,docker,linux,unity,wordpress&perline=9" width="70%" /> </p>
 
 | 💻 Languages and Web          | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
 |-------------------------------------|---------------------------|---------------------------------------|
