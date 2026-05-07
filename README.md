@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daniel  
 ### 🎓 Student at 42 Lausanne, Switzerland  
-### 🌱 Currently learning **Nest.JS** and **PostgreSQL**
+### 🌱 Currently learning **Express.js** and **PostgreSQL**
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
   
 ## 🌍 Languages 
