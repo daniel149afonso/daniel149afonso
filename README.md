@@ -14,12 +14,12 @@ English 🇬🇧, French 🇫🇷
 
 ---
 ## 🛠️ Skills
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,react,nodejs,html,css,php,mysql,tailwindcss,sass,prisma,docker,linux,unity,wordpress&perline=9" width="70%" /> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,ts,react,nodejs,tailwindcss,prisma,docker,linux,unity&perline=6" width="70%" /> </p>
 
-| 💻 Languages & Web          | ⚡ Frameworks & Libraries | 🔧 Tools & Environments               |
-|-------------------------------------|---------------------------|---------------------------------------|
-|   C, C++, C#, Php, MySQL        | Tailwinds CSS, Sass               | Linux, Docker, Unity                     |
-|  JavaScript, TypeScript, Html5, Css3        | React, Node.JS, Prisma     | WordPress |
+| 💻 Languages | 🌐 Frontend | ⚙️ Backend & Database | 🔧 Tools & Environments |
+|-------------|-------------|------------------------|--------------------------|
+| C, C++, C# | React | Node.js, Prisma | Linux, Docker |
+| JavaScript, TypeScript | Tailwind CSS | PostgreSQL   | Unity |
 ---
 
 ## 🎓 Certificates
