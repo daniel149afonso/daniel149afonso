@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daniel  
 ### 🎓 Student at 42 Lausanne, Switzerland  
-### 🌱 Currently learning **Express.js** and **PostgreSQL** and working on **Ft_transandence**
+### 🌱 Currently learning **Express.js** and **PostgreSQL**
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
   
 ## 🌍 Languages 
