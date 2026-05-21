@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Daniel  
 ### 🎓 Software Development student at 42 Lausanne, Switzerland
-### 🔎 Looking for a software development internship
+### 🔎 Looking for a Backend or Fullstack Internship
 ### 🌱 Currently building a project: <a href="https://github.com/daniel149afonso/team-task-saas"> team-task-saas</a> with React, Express.js and PostgreSQL
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
   
