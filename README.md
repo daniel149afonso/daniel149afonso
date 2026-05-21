@@ -1,6 +1,7 @@
 ## 👋 Hi, I'm Daniel  
-### 🎓 Student at 42 Lausanne, Switzerland  
-### 🌱 Currently learning **Express.js** and **PostgreSQL**
+### 🎓 Software Development student at 42 Lausanne, Switzerland
+### 🔎 Looking for a software development internship
+### 🌱 Currently building a project: <a href="https://github.com/daniel149afonso/daniel149afonso/team-task-saas"> team-task-saas</a> with React, Express.js, PostgreSQL and Prisma
 ### 💡 Passionate about **Basketball** 🏀 and **Chess** ♟️
   
 ## 🌍 Languages 
